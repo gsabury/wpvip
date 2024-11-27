@@ -1,0 +1,4 @@
+.wpvip_table input,
+.wpvip_table select{
+    min-width:300px;
+}

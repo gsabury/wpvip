@@ -1,0 +1,53 @@
+.wpvip_frm .form-row {
+    margin: 20px 0;
+}
+
+.wpvip_frm .error ,
+.wpvip_frm .success{
+    text-align: center;
+    font-family: tahoma;
+    background: #ef7777;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.wpvip_post_content_limit{
+    font-family: tahoma;
+    background: green;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px 15px;
+}
+
+.wpvip_frm .success{
+    background: green;
+}
+
+.wpvip_frm input.wpvip_form_control,
+.wpvip_frm select.wpvip_form_control {
+    width: 100%;
+    border: 1px solid #ddd;
+    padding: 11px 15px;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.wpvip_not_login {
+    font-size: 1.4rem;
+    background-color: #ffa5005e;
+    padding: 20px 10px;
+    border-radius: 8px;
+    color: #ff00007d;
+    text-align: center;
+}
+
+.wpvip_frm input.wpvip_submit {
+    background-color: #0075ff;
+    color: #fff;
+    border: none;
+    padding: 10px 19px;
+    font-size: 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+}
